@@ -1,5 +1,5 @@
 #  About Me:
- Hello <br>I am Tolga. <br>I am bioengineering student at Yıldız Technical University.<br>Psychology and Gaming are my hobbies
+ Hello <br>It's Tolga. <br>I'm a bioengineering student at Yıldız Technical University.<br>Psychology and Gaming are my hobbies
 
 
 ## 🌐 Socials:
